@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'Nhùn  à!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
+    Mà sao nhùn cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
+    Tại sao cuối cùng cũng chỉ là chữ tình bạn mà không phải chữ tình yêu`,
+    btnIntro: 'h:((',
+    title: 'Phải chăng em đã yêu ai không phải anh đúng không ???',
+    desc: 'Phải chăng em đã không thích anh từ lúc mới quen đúng không?? ',
+    btnYes: 'Sao không thể cho anh 1 cơ hội đc chăm sóc em , anh kbh có đc tình yêu à ?? ',
+    btnNo: 'Không, :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao t lại yêu m <3',
+    btnReply: 'Gửi cho m <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    mess: 'Bobbi biết mà 🥰.',
+    messDesc: 'Chắc t  không bao giờ chiếm đc tình cảm của m đâu nhỉ ??.',
+    btnAccept: 'Ừ <3',
+    messLink: 'https://m.me/queanhchi90
 }
